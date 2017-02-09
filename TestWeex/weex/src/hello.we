@@ -1,0 +1,20 @@
+<template>
+    <div>
+        <text class="aa">
+            hello world !
+        </text>
+        <text class="aa">
+            hello world !
+        </text>
+    </div>
+</template>
+
+<script></script>
+
+<style>
+    .aa {
+        background-color: #7b007b;
+        justify-content: center;
+        align-content: center;
+    }
+</style>
